@@ -1,2 +1,1 @@
-# Tindog
-Mate finder for your Dog.
+TinDog Starting Files
